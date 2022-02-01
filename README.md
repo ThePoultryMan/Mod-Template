@@ -1,9 +1,6 @@
-# Fabric Example Mod
+# Mod Template
 
-## Setup
+## About
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This is a mod template created by ThePoultryMan on GitHub. It was forked from the [fabric-example-mod]("https://github.com/FabricMC/fabric-example-mod").
+The mod has switched to Quilt Mappings and I have changed the format to suit my needs of creating a new mod.
